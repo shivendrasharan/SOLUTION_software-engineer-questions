@@ -37,22 +37,22 @@ Here are the questions, good luck!
 
 1. What’s your proudest achievement? It can be a personal project or something
    you’ve worked on professionally. Just a short paragraph is fine, but I’d
-   love to know why you’re proud of it. --> My proudest achievement is when I single-handedly developed multiple
-   monitoring scripts through shell scripting. I am proud of it because I did everything including research for 
-   various parameters on my own. And this effort was recognized very well in my team.
+   love to know why you’re proud of it. --> **My proudest achievement is when I single-handedly developed multiple
+   **monitoring scripts through shell scripting.** **I am proud of it because I did everything including research for** 
+   **various parameters on my own. And this effort was recognized very well in my team.***
 
 2. What's a personal project you're currently working on? This could be a
    coding side project, hobby, or otherwise real world project you're working
-   on. --> I am currently working on learning Python and parallely exploring deeply in Docker and Kubernetes.
+   on. --> **I am currently working on learning Python and parallely exploring deeply in Docker and Kubernetes.**
 
 3. Tell us about a technical book or article you read recently, why you liked
-   it, and why we should read it. --> I recently referred "Herbert Schildt, Java The Complete Reference" for gaining some
-   insights on Java for a work requirement. You should read it to understand Java concepts in a simple way.
+   it, and why we should read it. --> **I recently referred "Herbert Schildt, Java The Complete Reference" for gaining some**
+   **insights on Java for a work requirement. You should read it to understand Java concepts in a simple way.**
 
 4. Tell us about one of your favorite products (physical or software) and one
-   specific aspect that makes it truly great. --> WhatsApp as a software is one my favourite product as it has
-   really revolutionized the way we contact each other. There are pros and cons to everything but we cannot deny that
-   WhatsApp has truly made a difference in our lives.
+   specific aspect that makes it truly great. --> **WhatsApp as a software is one my favourite product as it has**
+   **really revolutionized the way we contact each other. There are pros and cons to everything but we cannot deny that**
+   **WhatsApp has truly made a difference in our lives.**
 
 5. In this repo is a `data.json` file. It contains an imaginary example set
    of data a customer might need to migrate from one system to another. It's a
